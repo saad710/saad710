@@ -27,7 +27,6 @@
 
 ### Contact with me 📝
 
-[<img align="left" alt=" | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][https://www.linkedin.com/in/ifrat-hasnat-46487a134/]
-[<img align="left" alt=" | Github" height="30px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/github.svg'>][https://github.com/saad710]       ___   
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/ifrat-hasnat-46487a134/)      ___      [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/github.svg' alt='github' height='20'>](https://github.com/saad710)
 
 <br />
