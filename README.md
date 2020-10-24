@@ -25,7 +25,7 @@
 
 <br/>
 
-### Contact with me 📝
+### Where to find me 📝
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/ifrat-hasnat-46487a134/)      ___      [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/github.svg' alt='github' height='20'>](https://github.com/saad710)
 
