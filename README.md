@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on React.js
 
 
-# Skills: 
+## Skills: 
 - Programming Language Skills: C, JavaScript
 - Web Development Skills: Html5, CSS3, Bootstrap4, JavaScript and ES6, API, React.js, React-routing, Context API, Reacthooks, Firebase Authentication.
 - Tool: Selenium WebDriver, Git,Chrome Dev Tool, VS Code, Adobe xd, Adobe photoshop.
