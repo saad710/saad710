@@ -1,8 +1,8 @@
 # Hi there, I'm Ifrat Hasnat 👋
-# I'm a Front-end Web Developer.
+# A Front-end Web Developer.
 
 - 🔭 I’m currently working on React.js
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
 
 # Skills: 
 - Programming Language Skills: C, JavaScript
@@ -28,6 +28,6 @@
 ### Contact with me 📝
 
 [<img align="left" alt=" | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][https://www.linkedin.com/in/ifrat-hasnat-46487a134/]
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/github.svg' alt='github' height='20'>](https://github.com/saad710)       ___   
+[<img align="left" alt=" | Github" height="30px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/github.svg'>][https://github.com/saad710]       ___   
 
 <br />
