@@ -5,9 +5,11 @@
 
 
 ## Skills: 
-- Programming Language Skills: C, JavaScript
-- Web Development Skills: Html5, CSS3, Bootstrap4, JavaScript and ES6, API, React.js, React-routing, Context API, Reacthooks, Firebase Authentication.
-- Tool: Selenium WebDriver, Git,Chrome Dev Tool, VS Code, Adobe xd, Adobe photoshop.
+- Programming Language Skills: C, JavaScript, PHP.
+- Web Development Skills: Html5, Css3, SASS, Bootstrap4, JavaScript, ES6, API, React.js, React-bootstrap, Materiul-UI, React-routing, React-hooks, Context API, Redux, Firebase Authentication.
+- Software Testing Tool: Selenium WebDriver.
+- Database Skills: MySQL, MongoDB.
+- Tools: Git,Chrome Dev Tool, VS Code, Adobe xd, Adobe photoshop, DevOps.
 
 ### Languages and Tools 🛠 
 
@@ -27,6 +29,7 @@
 
 ### Where to find me 📝
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/ifrat-hasnat-46487a134/)      ___      [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/github.svg' alt='github' height='20'>](https://github.com/saad710)
+<p><a href="https://github.com/saad710" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a><a href="https://www.linkedin.com/in/ifrat-hasnat-46487a134/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 <br />
