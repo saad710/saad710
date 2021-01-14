@@ -31,8 +31,6 @@
 
 ![Ifrat's github stats](https://github-readme-stats.vercel.app/api?username=saad710&show_icons=true&theme=merko)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=saad710&repo=saad710)](https://github.com/saad710/saad710)
-
 ### Where to find me 📝
 
 <p><a href="https://www.linkedin.com/in/ifrat-hasnat-46487a134/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://github.com/saad710" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /><a href="https://twitter.com/HasnatIfrat" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a></a>
