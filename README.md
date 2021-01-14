@@ -26,8 +26,8 @@
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
 <br/>
-
-![Ifrat's github stats](https://github-readme-stats.vercel.app/api?username=saad710&show_icons=true&theme=merko)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saad710)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saad710)
+![Ifrat's github stats](https://github-readme-stats.vercel.app/api?username=saad710&show_icons=true&theme=merko)
 
 ### Where to find me 📝
 
