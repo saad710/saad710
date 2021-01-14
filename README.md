@@ -5,7 +5,8 @@
 
 
 ## Skills: 
-- Programming Language Skills: C, JavaScript, PHP.
+##### Programming Language Skills: 
+C, JavaScript, PHP.
 - Web Development Skills: Html5, Css3, SASS, Bootstrap4, JavaScript, ECMAScript6, API, React.js, React-bootstrap, Materiul-UI, React-routing, React-hooks, Context API, Redux.
 - Software Testing Tool: Selenium WebDriver.
 - Database Skills: MySQL, MongoDB, Firebase.
