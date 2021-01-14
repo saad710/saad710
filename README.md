@@ -27,6 +27,7 @@
 
 <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saad710)
+
 ![Ifrat's github stats](https://github-readme-stats.vercel.app/api?username=saad710&show_icons=true&theme=merko)
 
 ### Where to find me 📝
