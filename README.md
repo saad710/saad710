@@ -27,7 +27,7 @@
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saad710)](https://github.com/saad710/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saad710)](https://github.com/saad710/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saad710&langs_count=8)](https://github.com/saad710/github-readme-stats)
 
 ![Ifrat's github stats](https://github-readme-stats.vercel.app/api?username=saad710&show_icons=true&theme=merko)
 
