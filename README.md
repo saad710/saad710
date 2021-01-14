@@ -31,7 +31,7 @@
 
 ![Ifrat's github stats](https://github-readme-stats.vercel.app/api?username=saad710&show_icons=true&theme=merko)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=saad710&repo=github-readme-stats)](https://github.com/saad710/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=saad710&repo=github-readme-stats)](https://github.com/saad710/saad710)
 
 ### Where to find me 📝
 
