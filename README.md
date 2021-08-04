@@ -6,9 +6,9 @@
 
 ## Skills: 
 - Programming Language Skills: C, JavaScript, PHP.
-- Web Development Skills: Html5, Css3, SASS, Bootstrap4, JavaScript, TypeScript, ECMAScript6, API, React.js, React-bootstrap, Materiul-UI, React-routing, React-hooks, Context API, Redux.
+- Web Development Skills: HTML5, CSS3, Bootstrap, React-Bootstrap, Tailwind CSS, Material-UI, JavaScript, TypeScript, React.js, Redux, Next.js, Express.js, Node.js, Firebase.
 - Software Testing Tool: Selenium WebDriver.
-- Database Skills: MySQL, MongoDB, Firebase.
+- Database Skills: MySQL, MongoDB.
 - Tools: Git, Chrome Dev Tool, VS Code, Adobe xd, Adobe photoshop, Slack, Trello.
 
 ### Languages and Tools 🛠 
