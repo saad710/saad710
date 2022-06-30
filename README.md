@@ -1,7 +1,7 @@
 ## Hi there! I'm Ifrat Hasnat 👋
 # A JavaScript Developer
 
-- 🔭 I’m currently working on React.js
+- 🔭 I’m currently working on React js and Next js
 
 
 ## Skills: 
